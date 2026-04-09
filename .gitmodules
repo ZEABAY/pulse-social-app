@@ -1,0 +1,6 @@
+[submodule "pulse-backend"]
+	path = pulse-backend
+	url = https://github.com/ZEABAY/pulse-backend.git
+[submodule "pulse-web"]
+	path = pulse-web
+	url = https://github.com/ZEABAY/pulse-web.git
